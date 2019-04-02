@@ -1,0 +1,28 @@
+{
+    "id": 2,
+    "pelajaran": "Ekonomi",
+    "soal": [
+        {
+            "no": 1,
+            "pertanyaan": "Butik pakaian sekolah pada saat ajaran baru menambah jumlah produksinya untuk memenuhi kebutuhan pakaian seragam anak sekolah. Dari pernyataan tersebut masalah yang dihadapi oleh perusahaan Garmen tersebut adalah:",
+            "daftar_pilihan": [
+                {"pilihan": "a", "isi": "What"},
+                {"pilihan": "b", "isi": "How"},
+                {"pilihan": "c", "isi": "For whom"},
+                {"pilihan": "d", "isi": "When"},
+                {"pilihan": "e", "isi": "Why"}
+            ]
+        },
+        {
+            "no": 2,
+            "pertanyaan": "Pada saat harga buku Rp10.000,00 per lusin permintaan akan buku tersebut sebanyak 10 lusin, dan ketika harga buku turun menjadi Rp8.000,00 per lusin permintaannya menjadi 16 lusin. Hitunglah fungsi permintaannya...",
+            "daftar_pilihan": [
+                {"pilihan": "a", "isi": "Qd = 40 - P"},
+                {"pilihan": "b", "isi": "Qd = 40 - 0.003P"},
+                {"pilihan": "c", "isi": "Qd = 20 - 0.003P"},
+                {"pilihan": "d", "isi": "Qd = 20 - 0.002P"},
+                {"pilihan": "e", "isi": "Qd = 10 - 0.002P"}
+            ]
+        }
+    ]
+}
