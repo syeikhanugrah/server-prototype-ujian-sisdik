@@ -23,6 +23,17 @@
                 {"pilihan": "d", "isi": "Qd = 20 - 0.002P"},
                 {"pilihan": "e", "isi": "Qd = 10 - 0.002P"}
             ]
+        },
+        {
+            "no": 3,
+            "pertanyaan": "<p>berbelanja kepasar untuk memenuhi kebutuhan keluarganya:</p><ol><li>Membeli beras untuk persediaan</li><li>Membeli motor untuk keperluan transportasi</li><li>Membeli alat tulis untuk keperluan anak-anaknya</li><li>Membeli kebutuhan mandi untuk persediaan</li><li>Membeli perhiasan untuk istrinya</li></ol><p>Dari pernyataan diatas, yang dapat digolongkan kebutuhan berdasarkan prioritasnya adalah:</p>",
+            "daftar_pilihan": [
+                {"pilihan": "a", "isi": "1, 2 dan 3"},
+                {"pilihan": "b", "isi": "1, 2 dan 4"},
+                {"pilihan": "c", "isi": "1, 3 dan 4"},
+                {"pilihan": "d", "isi": "2, 3 dan 4"},
+                {"pilihan": "e", "isi": "3, 4 dan 5"}
+            ]
         }
     ]
 }
