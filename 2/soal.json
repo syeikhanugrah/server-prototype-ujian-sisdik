@@ -26,7 +26,7 @@
         },
         {
             "no": 3,
-            "pertanyaan": "<p>berbelanja kepasar untuk memenuhi kebutuhan keluarganya:</p><ol><li>Membeli beras untuk persediaan</li><li>Membeli motor untuk keperluan transportasi</li><li>Membeli alat tulis untuk keperluan anak-anaknya</li><li>Membeli kebutuhan mandi untuk persediaan</li><li>Membeli perhiasan untuk istrinya</li></ol><p>Dari pernyataan diatas, yang dapat digolongkan kebutuhan berdasarkan prioritasnya adalah:</p>",
+            "pertanyaan": "<p>Berbelanja kepasar untuk memenuhi kebutuhan keluarganya:</p><ol><li>Membeli beras untuk persediaan</li><li>Membeli motor untuk keperluan transportasi</li><li>Membeli alat tulis untuk keperluan anak-anaknya</li><li>Membeli kebutuhan mandi untuk persediaan</li><li>Membeli perhiasan untuk istrinya</li></ol><p>Dari pernyataan diatas, yang dapat digolongkan kebutuhan berdasarkan prioritasnya adalah:</p>",
             "daftar_pilihan": [
                 {"pilihan": "a", "isi": "1, 2 dan 3"},
                 {"pilihan": "b", "isi": "1, 2 dan 4"},
