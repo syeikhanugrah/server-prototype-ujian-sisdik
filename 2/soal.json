@@ -67,6 +67,72 @@
                 {"pilihan": "d", "isi": "E = 0"},
                 {"pilihan": "e", "isi": "E = ~"}
             ]
+        },
+        {
+            "no": 7,
+            "pertanyaan": "Ny. Tina seorang karyawati swasta yang terkena PHK. Dengan pesangon yang ia dapatkan, Kinara berencana membuka usaha, membuka kedai kopi dengan memperkirakan keuntungan Rp. 60.000,00/hari, membuka toko kelontong dengan keuntungan Rp. 50.000,00/hari, kedai roti bakar dengan keuntungan Rp. 30.000,00/hari, dan kafe dengan keuntungan Rp. 45.000,00/hari (1 bulan = 30 Hari). Ternyata Kinara memutuskan membuka usaha kedai kopi, maka biaya peluang yang muncul adalah...",
+            "daftar_pilihan": [
+                {"pilihan": "a", "isi": "Rp. 30.000,00"},
+                {"pilihan": "b", "isi": "Rp. 45.000,00"},
+                {"pilihan": "c", "isi": "Rp. 50.000,00"},
+                {"pilihan": "d", "isi": "Rp. 60.000,00"},
+                {"pilihan": "e", "isi": "Rp. 80.000,00"}
+            ]
+        },
+        {
+            "no": 8,
+            "pertanyaan": "Pembangunan ekonomi seringkali mengalami hambatan yaitu kualitas sumber daya manusia, keterbelakangan dan kemiskinan serta pengangguran.Dalam mengatasi hambatan tersebut diperlukan peranan yang masyarakat yaitu...",
+            "daftar_pilihan": [
+                {"pilihan": "a", "isi": "Mencari pekerjaan ke luar negeri,karena pendapatannya lebih besar"},
+                {"pilihan": "b", "isi": "Memilih pekerjaan yang disukai dan menolak pekerjaan yang sulit"},
+                {"pilihan": "c", "isi": "Mencari  kemungkinan investasi ke luar negeri yang lebih menguntungkan"},
+                {"pilihan": "d", "isi": "Senantiasa meningkatkan kemampuannya melalui pendidikan dan latihan"},
+                {"pilihan": "e", "isi": "Berorientasi untuk menjadi karyawan suatu perusahaan"}
+            ]
+        },
+        {
+            "no": 9,
+            "pertanyaan": "<p>Tabel pendapatan nasional 5 negara dan jumlah penduduk:</p><table><tbody><tr><td>No.</td><td>Negara</td><td>GNP (dlm juta dollar)</td><td>Jumlah penduduk</td></tr><tr><td>1</td><td>Chery</td><td>610.000</td><td>174 Juta</td></tr><tr><td>2</td><td>Delta</td><td>300.000</td><td>143 Juta</td></tr><tr><td>3</td><td>Eko</td><td>36.500</td><td>125 Juta</td></tr><tr><td>4</td><td>Alfa</td><td>424.500</td><td>60 Juta</td></tr><tr><td>5</td><td>Beta</td><td>860.000</td><td>235 Juta</td></tr></tbody></table><p>Urutan negara yang pendapatan perkkapita tertinggi sampai terendah adalah adalah...</p>",
+            "daftar_pilihan": [
+                {"pilihan": "a", "isi": "Chery, delta, eko, alfa dan beta"},
+                {"pilihan": "b", "isi": "Delta, eko, alfa, beta dan chery"},
+                {"pilihan": "c", "isi": "Eko, alfa, beta, chery dan delta"},
+                {"pilihan": "d", "isi": "Beta, chery, alfa, beta dan eko"},
+                {"pilihan": "e", "isi": "Alfa, beta, chery, delta dan eko"}
+            ]
+        },
+        {
+            "no": 10,
+            "pertanyaan": "<p>Pada kecelakaan suatu maskapai perusahaan penerbangan Nasional terjadi risiko pada semua penumpang. Perusahaan asuransi yang mengcover kasus tersebut ternyata tidak memenuhi kewajibannya dengan alasan di luar kemampuan.</p><p>OJK melaksanakan kewenangannya dalam mengatasi masalah tersebut. Wewenang apakah yang dimaksud?</p>",
+            "daftar_pilihan": [
+                {"pilihan": "a", "isi": "Melakukan pengaturan dan pengawasan jasa keuangan di sektor perbankan"},
+                {"pilihan": "b", "isi": "Melakukan pengaturan dan pengawasan jasa di sektor pasar modal"},
+                {"pilihan": "c", "isi": "Melakukan pengaturan dan pengawasan jasa di sektor perasuransian"},
+                {"pilihan": "d", "isi": "Menetapkan peraturan pelaksanaan terhadap Undang-undang OJK"},
+                {"pilihan": "e", "isi": "Menetapkan peraturan perundang-undangan di sektor jasa keuangan"}
+            ]
+        },
+        {
+            "no": 11,
+            "pertanyaan": "<p>Beberapa waktu belakangan di sebagian besar wilayah Jawa Barat mengalami kenaikan harga-harga bahan pokok. Setelah dilaksanakan perhitungan oleh badan statistika ternyata diketahui laju inflasi trimester tersebut adalah 9%.</p><p>Berdasar uraian tersebut Jawa Barat pada trimester itu mengalami inflasi...</p>",
+            "daftar_pilihan": [
+                {"pilihan": "a", "isi": "Hypo Inflasi"},
+                {"pilihan": "b", "isi": "Ringan"},
+                {"pilihan": "c", "isi": "Sedang"},
+                {"pilihan": "d", "isi": "Berat"},
+                {"pilihan": "e", "isi": "Hyper Inflasi"}
+            ]
+        },
+        {
+            "no": 12,
+            "pertanyaan": "Berikut ini kebijakan fiskal untuk mengurangi defisit neraca perdagangan atau untuk meningkatkan ekspor adalah...",
+            "daftar_pilihan": [
+                {"pilihan": "a", "isi": "Hypo Inflasi"},
+                {"pilihan": "b", "isi": "Ringan"},
+                {"pilihan": "c", "isi": "Sedang"},
+                {"pilihan": "d", "isi": "Berat"},
+                {"pilihan": "e", "isi": "Hyper Inflasi"}
+            ]
         }
     ]
 }
