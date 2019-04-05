@@ -26,6 +26,17 @@
         },
         {
             "no": 3,
+            "pertanyaan": "<p>Beberapa contoh kegiatan produsen dan konsumen sebagai berikut:</p><ol><li>Di Desa Kalibata akan berdiri perusahaan dibidang industri yang dikelola oleh pihak luar.</li><li>Rian dan keluarga mengonsumsi tahu susu yang diproduksi oleh perusahaan dekat rumah</li><li>Perusahaan yang memproduksi lemari pendingin membayar gaji karyawan setiap awal tahun</li><li>Asti menerima tambahan bonus akhir tahun dari perusahaan karena hasil yang diperoleh melebihi target</li><li>Perusahaan kontraktor memberikan asuransi bagi karyawan yang bekerja dilapangan</li><li>Bapak Joko setiap bulan menerima uang sewa dari pabrik yang menyewa tanahnya</li></ol><p>Dari kegiatan di atas, yang termasuk peran konsumen adalah...</p>",
+            "daftar_pilihan": [
+                {"pilihan": "a", "isi": "1, 2 dan 3"},
+                {"pilihan": "b", "isi": "1, 3 dan 4"},
+                {"pilihan": "c", "isi": "2, 3 dan 5"},
+                {"pilihan": "d", "isi": "2, 4 dan 6"},
+                {"pilihan": "e", "isi": "3, 5 dan 6"}
+            ]
+        },
+        {
+            "no": 4,
             "pertanyaan": "<p>Berbelanja kepasar untuk memenuhi kebutuhan keluarganya:</p><ol><li>Membeli beras untuk persediaan</li><li>Membeli motor untuk keperluan transportasi</li><li>Membeli alat tulis untuk keperluan anak-anaknya</li><li>Membeli kebutuhan mandi untuk persediaan</li><li>Membeli perhiasan untuk istrinya</li></ol><p>Dari pernyataan diatas, yang dapat digolongkan kebutuhan berdasarkan prioritasnya adalah:</p>",
             "daftar_pilihan": [
                 {"pilihan": "a", "isi": "1, 2 dan 3"},
@@ -33,6 +44,28 @@
                 {"pilihan": "c", "isi": "1, 3 dan 4"},
                 {"pilihan": "d", "isi": "2, 3 dan 4"},
                 {"pilihan": "e", "isi": "3, 4 dan 5"}
+            ]
+        },
+        {
+            "no": 5,
+            "pertanyaan": "Diketahui fungsi permintaan Qd = 80 – 2P dan fungsi penawaran Qs = 40  + 3P, maka harga dan jumlah keseimbangannya adalah...",
+            "daftar_pilihan": [
+                {"pilihan": "a", "isi": "P = 5  dan Q = 20"},
+                {"pilihan": "b", "isi": "P = 8  dan  Q = 40"},
+                {"pilihan": "c", "isi": "P = 8  dan  Q = 64"},
+                {"pilihan": "d", "isi": "P = 6  dan Q = 40"},
+                {"pilihan": "e", "isi": "P = 8  dan Q = 60"}
+            ]
+        },
+        {
+            "no": 6,
+            "pertanyaan": "Bila harga sebuah barang Rp400 per buah jumlah barang yang ditawarkan sebanyak 6000 buah. Bila harga tersebut naik menjadi Rp700 per buah barang yang ditawarkan sebanyak 10000 buah. Penawaran tersebut koefisien elastisitasnya adalah...",
+            "daftar_pilihan": [
+                {"pilihan": "a", "isi": "E > 1"},
+                {"pilihan": "b", "isi": "E < 1"},
+                {"pilihan": "c", "isi": "E = 1"},
+                {"pilihan": "d", "isi": "E = 0"},
+                {"pilihan": "e", "isi": "E = ~"}
             ]
         }
     ]
