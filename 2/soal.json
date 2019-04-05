@@ -92,7 +92,7 @@
         },
         {
             "no": 9,
-            "pertanyaan": "<p>Tabel pendapatan nasional 5 negara dan jumlah penduduk:</p><table><tbody><tr><td>No.</td><td>Negara</td><td>GNP (dlm juta dollar)</td><td>Jumlah penduduk</td></tr><tr><td>1</td><td>Chery</td><td>610.000</td><td>174 Juta</td></tr><tr><td>2</td><td>Delta</td><td>300.000</td><td>143 Juta</td></tr><tr><td>3</td><td>Eko</td><td>36.500</td><td>125 Juta</td></tr><tr><td>4</td><td>Alfa</td><td>424.500</td><td>60 Juta</td></tr><tr><td>5</td><td>Beta</td><td>860.000</td><td>235 Juta</td></tr></tbody></table><p>Urutan negara yang pendapatan perkkapita tertinggi sampai terendah adalah adalah...</p>",
+            "pertanyaan": "<p>Tabel pendapatan nasional 5 negara dan jumlah penduduk:</p><table><tbody><tr><td>No.</td><td>Negara</td><td>GNP (dlm juta dollar)</td><td>Jumlah penduduk</td></tr><tr><td>1</td><td>Chery</td><td>610.000</td><td>174 Juta</td></tr><tr><td>2</td><td>Delta</td><td>300.000</td><td>143 Juta</td></tr><tr><td>3</td><td>Eko</td><td>36.500</td><td>125 Juta</td></tr><tr><td>4</td><td>Alfa</td><td>424.500</td><td>60 Juta</td></tr><tr><td>5</td><td>Beta</td><td>860.000</td><td>235 Juta</td></tr></tbody></table><p>Urutan negara yang pendapatan perkapita tertinggi sampai terendah adalah adalah...</p>",
             "daftar_pilihan": [
                 {"pilihan": "a", "isi": "Chery, delta, eko, alfa dan beta"},
                 {"pilihan": "b", "isi": "Delta, eko, alfa, beta dan chery"},
@@ -110,28 +110,6 @@
                 {"pilihan": "c", "isi": "Melakukan pengaturan dan pengawasan jasa di sektor perasuransian"},
                 {"pilihan": "d", "isi": "Menetapkan peraturan pelaksanaan terhadap Undang-undang OJK"},
                 {"pilihan": "e", "isi": "Menetapkan peraturan perundang-undangan di sektor jasa keuangan"}
-            ]
-        },
-        {
-            "no": 11,
-            "pertanyaan": "<p>Beberapa waktu belakangan di sebagian besar wilayah Jawa Barat mengalami kenaikan harga-harga bahan pokok. Setelah dilaksanakan perhitungan oleh badan statistika ternyata diketahui laju inflasi trimester tersebut adalah 9%.</p><p>Berdasar uraian tersebut Jawa Barat pada trimester itu mengalami inflasi...</p>",
-            "daftar_pilihan": [
-                {"pilihan": "a", "isi": "Hypo Inflasi"},
-                {"pilihan": "b", "isi": "Ringan"},
-                {"pilihan": "c", "isi": "Sedang"},
-                {"pilihan": "d", "isi": "Berat"},
-                {"pilihan": "e", "isi": "Hyper Inflasi"}
-            ]
-        },
-        {
-            "no": 12,
-            "pertanyaan": "Berikut ini kebijakan fiskal untuk mengurangi defisit neraca perdagangan atau untuk meningkatkan ekspor adalah...",
-            "daftar_pilihan": [
-                {"pilihan": "a", "isi": "Hypo Inflasi"},
-                {"pilihan": "b", "isi": "Ringan"},
-                {"pilihan": "c", "isi": "Sedang"},
-                {"pilihan": "d", "isi": "Berat"},
-                {"pilihan": "e", "isi": "Hyper Inflasi"}
             ]
         }
     ]
