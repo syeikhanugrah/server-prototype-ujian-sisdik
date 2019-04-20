@@ -1,6 +1,5 @@
-[
-    {
-        "id": 1,
-        "pelajaran": "Ekonomi"
-    }
-]
+{
+    "id": 1,
+    "pelajaran": "Ekonomi",
+    "waktu_pelajaran": 120
+}
